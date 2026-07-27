@@ -10,6 +10,8 @@ engineer focused on backend systems, APIs, databases, and product engineering.
 - 40% database-query performance improvement
 - Leadership experience with 14+ backend engineers
 - Kirana Ops Agent, an AI-enabled operations project for Indian shop owners
+- Incident Commander, an evidence-backed SRE workflow and investigation platform
+- Multiplayer Online Chess, a TypeScript real-time systems project
 
 ## Built with
 
@@ -26,3 +28,10 @@ Open `index.html` directly, or serve the folder with any static file server.
 - [Portfolio](https://dhruviturakhia.github.io/My-portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/dhruvi-turakhia-b180411b6/)
 - [Kirana Ops Agent](https://github.com/DhruviTurakhia/kirana-ops-agent)
+- [Incident Commander](https://github.com/DhruviTurakhia/incident-commander-ai)
+- [Multiplayer Online Chess](https://github.com/DhruviTurakhia/multiplayer-online-chess)
+
+## Related engineering work
+
+The portfolio is the presentation layer. Implementation details, architecture decisions, tests,
+and known limitations remain documented in each project's own repository.
