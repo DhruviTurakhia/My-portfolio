@@ -6,12 +6,14 @@ engineer focused on backend systems, APIs, databases, and product engineering.
 ## What the site highlights
 
 - 4+ years building software across fintech and healthcare
-- 32+ production REST APIs delivered as a founding backend engineer
+- 100+ production REST APIs delivered as a founding backend engineer
 - 40% database-query performance improvement
 - Leadership experience with 14+ backend engineers
 - Kirana Ops Agent, an AI-enabled operations project for Indian shop owners
 - Incident Commander, an evidence-backed SRE workflow and investigation platform
 - Multiplayer Online Chess, a TypeScript real-time systems project
+- Pharmacy product workflows spanning billing, inventory and expiry management, automated
+  ordering and reordering, report generation, and CRM
 
 ## Built with
 
